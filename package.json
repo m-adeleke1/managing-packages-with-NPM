@@ -3,7 +3,7 @@
 	"description": "A freeCodeCamp Project",
 	"keywords": ["freeCodeCamp", "package", "project", "freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
-	"license": "MIT"
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
